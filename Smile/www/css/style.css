@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+.scroll {
+    height: 100%;
+}
+#shopsMap
+{
+	width: 100%;
+    height: 100%;
+    padding-left: 10px;
+    background-color: "red";
+
+ }
+
+#map {
+    width: 100%;
+    height: 100%;
+}
